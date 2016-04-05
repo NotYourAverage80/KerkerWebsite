@@ -1,0 +1,31 @@
+#title {
+    text-align: center;
+    color: burlywood;
+}
+table {
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+        
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Helevetica, sans-serif
+}
+h2 {
+    text-align: center;
+    font-family: Verdana, Helevetica, sans-serif
+}
+p {
+    text-align: center;
+    font-family: Arial, Helevetica, sans-serif
+}
+
+body {
+    background-image: url("victor.PNG");
+}
